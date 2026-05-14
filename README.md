@@ -38,7 +38,7 @@ The system uses trained machine learning models to analyze patient-related infor
   
 🚀 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Alzheimers.git
+git clone https://github.com/Viz-Ar/Alzheimers.git
 cd Alzheimers
 2️⃣ Create Virtual Environment
 Windows
